@@ -2,3 +2,9 @@ body{
     columns: auto;
     color: aqua;
 }
+::content{
+    color: aliceblue;
+}
+::cue-region(){
+    align-self: start;
+}
