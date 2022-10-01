@@ -1,6 +1,7 @@
 body{
     columns: auto;
     color: aqua;
+    color: azure;
 }
 ::content{
     color: aliceblue;
